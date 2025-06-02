@@ -1,4 +1,4 @@
-# 📝 Projeto Tarefas (PHP)
+# Projeto Tarefas (PHP)
 
 Projeto desenvolvido em PHP para gerenciamento básico de tarefas. Possui funcionalidades como cadastro, listagem, edição e exclusão de tarefas, além de login de usuário.
 
